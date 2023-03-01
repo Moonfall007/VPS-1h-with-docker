@@ -18,6 +18,7 @@ curl -sLkO https://github.com/kmille36/PWD-Windows-2022/raw/main/alpha-release-2
 ```
 
 1H: https://bit.ly/3wDhsRd
+https://learn.microsoft.com/vi-vn/training/modules/create-windows-virtual-machine-in-azure/3-exercise-create-a-vm
 
 Login: https://microsoft.com/devicelogin
 
